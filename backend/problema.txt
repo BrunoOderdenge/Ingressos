@@ -1,0 +1,5 @@
+ - Quantidade de ingressos
+ - Informar o sexo 
+ - se a idade da mulher for maior que 18 e menor que 21 continua sendo 35, senao fica 45
+ - se a idade da home for maior que 18 e menor que 21 continua sendo 45, senao fica 55
+ - mostrar o valor total
